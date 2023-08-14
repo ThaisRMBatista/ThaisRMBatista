@@ -1,6 +1,6 @@
 ### Hey, I'm Thaís Batista! ✌
 
-I work as an android developer, and I'm officially starting this journey at the company where I'm currently, but I've been venturing out for some time now.
+I work as an backend developer, and I'm officially starting this journey at the company where I'm currently, but I've been venturing out for some time now.
 I live in Goiânia, Brazil.
 
 I'm always trying to grow and learn something new.
