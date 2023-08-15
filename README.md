@@ -1,13 +1,12 @@
 ### Hey, I'm Thaís Batista! ✌
 
-I work as an backend developer, and I'm officially starting this journey at the company where I'm currently, but I've been venturing out for some time now.
+Currently working as a Full Stack Developer, with Java in backend and Angular on Front-end.
+Enthusiast in Spring and new technologies that can add more knowledge.
 I live in Goiânia, Brazil.
-
-I'm always trying to grow and learn something new.
 
 ### What I'm focusing on 👩 ➡ 💻
 
-I'm currently looking to improve my skills in java and kotlin languages and learn more about the Android framework, using AndroidX, architecture components and Jetpack.
+I'm currently looking to improve my skills in java and kotlin languages and learn more about the Spring framework, using Microservices.
 
 ### Find me elsewhere
 
